@@ -2,10 +2,10 @@
 
 These are the files we have used in our Operating Systems group to facilitate interaction with the application layer. These files play a crucial role in the presentation layer, allowing us to establish connections and providing a user-friendly interface for interacting with applications. Additionally, the presentation layer is essential for enhancing the user experience and ensuring effective communication between users and applications in the application layer. In this layer, it also sends requests to the application layer, acting as a vital intermediary in the flow of data and commands between the system's layers.
 
-
 <div align="center">
   <img src="https://cdn.discordapp.com/attachments/1151996567549648996/1153157686045720636/Logo-Uma.jpg" width="400px"</img>
 </div>
+
 ## UmaProject
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.1.
